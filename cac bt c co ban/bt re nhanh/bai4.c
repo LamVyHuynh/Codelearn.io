@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main()
 {
+
+    // CHƯƠNG TRÌNH TÍNH SỐ CHÂN CỦA CION GÀ && CHÓ
     int dog, chicken, sumanimal, sumlegdog, sumlegchk, sumleg;
     printf("Nhap so con cho vao: ");
     scanf("%d", &dog);

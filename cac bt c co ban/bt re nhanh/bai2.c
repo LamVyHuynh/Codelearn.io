@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    // CHƯƠNG TRÌNH XẾP LỌAI THÀNH TÍCH CỦA HỌC SINH
     int a, v, av;
     float dtb;
     printf("Nhap diem  toan: ");

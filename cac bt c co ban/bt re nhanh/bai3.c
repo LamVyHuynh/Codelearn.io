@@ -3,7 +3,7 @@
 #include <conio.h>
 int main()
 {
-
+    // CHƯƠNG TRÌNH TÍNH PT BẬC 2
     float x1, x2, delta, a, b, c;
     printf("Nhap so a vao: ");
     scanf("%f", &a);

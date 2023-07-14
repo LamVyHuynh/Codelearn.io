@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    // CHƯƠNG TRÌNH IN RA SÔ ÂM && DƯƠNG
     int a;
     printf("Nhap so nguyen a vao: ");
     scanf("%d", &a);
